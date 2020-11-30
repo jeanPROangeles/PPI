@@ -1,0 +1,61 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="139dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="-19dp"
+        android:background="#FF9800"
+        android:text="          PI"
+        android:textColor="@android:color/white"
+        android:textSize="60dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="148dp"
+            android:layout_height="73dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="30dp"
+            android:background="#009688"
+            android:text="Profesor"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_width="148dp"
+            android:layout_height="73dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="150dp"
+            android:background="#009688"
+            android:text="Estudiante"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_marginTop="220dp"
+        android:layout_weight="0"
+        android:scaleType="centerCrop"
+        android:src="@drawable/g" />
+
+    <TextView
+        android:text="De Jean Pier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@android:color/white"
+        android:textSize="34sp"
+        android:background="#FF9800" />
+
+</RelativeLayout>
