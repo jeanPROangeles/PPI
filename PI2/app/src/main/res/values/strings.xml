@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PI2</string>
+    <string name="feedbacktype1">Praise</string>
+    <string name="feedbacktype2">Gripe</string>
+    <string name="feedbacktype3">Suggestion</string>
+    <string name="feedbacktype4">Bug</string>
+    <string name="feedbacktitle">Datos del docente</string>
+    <string name="feedbacktitle2">Datos del Estudiante</string>
+    <string name="feedbackemail">Email</string>
+    <string name="feedbackname">Nombre</string>
+    <string name="feedbacktype">Curso</string>
+    <string name="feedbackbody">Logros</string>
+    <string name="feedbackresponse">Acepto dar acceso a esta app para manejar mis datos y proporcionarcelos a mis alumnos</string>
+    <string name="feedbackresponse2">Acepto dar acceso a esta app para manejar mis datos y proporcionarcelos a mi profesor</string>
+    <string name="feedbackbutton">
+        Submit</string>
+
+</resources>
